@@ -2,8 +2,8 @@
 # Questions Documentation
 
 ## Introduction
-Questions is a new way to create Forums in Liferay more focused in a questions and answers format with a new UI.
-Build over Message Board base, Questions allows the creation of the following main elements:
+Questions is a new UI of the Message Boards application more focused in a questions and answers format but maintaining the same elements of Message Boards.
+The Questions application allows the creation of the following main elements:
 * Topics: Themes where categorize the questions asked.
 * Questions: A question inside the app.
 * Answers: An answer to a specific question or another answer.
@@ -47,7 +47,7 @@ IMPORTANT: To create a question, it must have the proper permissions.
 
 ## How to answer other users
 To create an answer, it has to select the question that wants to answer. At the bottom of the detail page of the question, the user will found the CKEditor to create an answer.
-Also, it is possible to create responses to other answers. To do this, the user should click on the "Reply" button at the bottom of an answer.
+Also, it is possible to create comments in the answers. To do this, the user should click on the "Reply" button at the bottom of an answer.
 
 <img src="images/answer-question.png" alt="Answer a question" width="520"/>
 
